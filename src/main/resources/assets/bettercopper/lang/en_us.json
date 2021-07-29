@@ -1,0 +1,15 @@
+{
+    "item.bettercopper.copper_shovel": "Copper Shovel",
+    "item.bettercopper.copper_sword": "Copper Sword",
+    "item.bettercopper.copper_pickaxe": "Copper Pickaxe",
+    "item.bettercopper.copper_axe": "Copper Axe",
+    "item.bettercopper.copper_hoe": "Copper Hoe",
+    "item.bettercopper.copper_helmet": "Copper Helmet",
+    "item.bettercopper.copper_chestplate": "Copper Chestplate",
+    "item.bettercopper.copper_leggings": "Copper Leggings",
+    "item.bettercopper.copper_boots": "Copper Boots",
+    "item.bettercopper.copper_nugget": "Copper Nugget",
+    "block.bettercopper.copper_door": "Copper Door",
+    "block.bettercopper.copper_trapdoor": "Copper Trapdoor",
+    "block.bettercopper.copper_bars": "Copper Bars"
+}
